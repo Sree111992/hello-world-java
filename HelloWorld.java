@@ -1,7 +1,7 @@
-class HelloWorld {
-    public static void main(String[] args) {
-        System.out.println("Welcome you all to");
-        System.out.println("Harsha DevOps Tutorials"); 
-        // Hello World!
+class Test
+{
+    public static void main(String []args)
+    {
+        System.out.println("My First DevOps class.");
     }
-}
+};
